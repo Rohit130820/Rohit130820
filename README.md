@@ -52,13 +52,7 @@ Hi there 👋 I'm Rohit Kadam a dedicated Software Development Engineer in Test 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
 </p>
-curl -X POST https://github.com/Rohit130820/repos/Rohitkadam1308/Rohit130820/ \
--H "Authorization: token YOUR_PERSONAL_ACCESS_TOKEN" \
--d '{
-  "state": "success",
-  "description": "All checks passed",
-  "context": "ci/checks"
-}'
+
 
 
 
