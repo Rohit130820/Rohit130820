@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👨‍💻 Software Tester | QA Engineer
 
-<!--
-**Rohit130820/Rohit130820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Software Tester and QA Engineer with experience in both manual and automated testing. My goal is to ensure high-quality, bug-free applications by utilizing various testing tools and frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+
+- **Automation Testing**:
+  - Cypress
+  - Selenium
+- **Programming Languages**:
+  - Java
+  - JavaScript
+- **API Testing**:
+  - Postman
+- **Version Control**:
+  - Git & GitHub
+
+---
+
