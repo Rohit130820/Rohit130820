@@ -18,7 +18,7 @@ Hi there 👋 I'm Rohit Kadam a dedicated Software Development Engineer in Test 
 
 - 💬 Ask me about * Java, Javascript, Manual Testing, Selenium, Cypress, Postman *
 
-- 📄 Know about my experiences [Resume](https://github.com/Rohit130820/Resume)
+- 📄 Know about my experiences [Resume](https://github.com/Rohit130820/Resume/blob/main/RohitRajabhauKadam-SDETQA-o7wF.pdf)
  
 - 📫 Feel free to reach me at kadamrohit1308@gmail.com
 
